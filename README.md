@@ -1,4 +1,4 @@
-# Olá, e bom ter você por aqui!
+# Olá, é bom ter você por aqui!
 
 <img src="baner.gif" width = "325px" align = "right"> 
 
