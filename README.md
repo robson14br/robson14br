@@ -1,6 +1,6 @@
 # Olá, é bom ter você por aqui!
 
-<img src="baner.gif" width = "325px" align = "right"> 
+<img src="baner.gif" width = "220px" align = "right"> 
 
 
 Sou estudande de Engenharia de SoftWare e amante da tecnologia!<br>
