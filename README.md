@@ -20,8 +20,8 @@ Sou estudande de Engenharia de SoftWare e amante da tecnologia!<br>
 
 <br>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=robson14br&layout=compact&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000&size_weight=0&count_weight=1" alt="robs" height = "150em"/> 
- &nbsp;<br>
+  <img align="left" ; src="https://github-readme-stats.vercel.app/api/top-langs?username=robson14br&layout=compact&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000&size_weight=0&count_weight=1" alt="robs" height = "150em"/> 
+ &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=robson14br&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000" alt="robs" height = "150em" />
 </div>
 <br>
