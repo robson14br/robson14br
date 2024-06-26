@@ -15,16 +15,18 @@ Sou estudande de Engenharia de SoftWare e amante da tecnologia!<br>
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"  title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src= "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
   <img src= "https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src= "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Sass" width="40" height="40"/>&nbsp;
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Sass" width="40" height="40"/>&nbsp;
 </div>
 
 <br>
-<div align="center">
-  <img align="left" ; src="https://github-readme-stats.vercel.app/api/top-langs?username=robson14br&layout=compact&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000&size_weight=0&count_weight=1" alt="robs" height = "130em"/> 
+<div align="">
+  <img align="left" ; src="https://github-readme-stats.vercel.app/api/top-langs?username=robson14br&layout=compact&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000&size_weight=0&count_weight=1" alt="robs" height = "200em"/> 
  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robson14br&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000" alt="robs" height = "130em" />
+  </div><br><br><br><br><br><br><br><br><br><br>
+  <div align="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robson14br&bg_color=d9d9d9&border_color=ffffff&text_color=000000&title_color=000000" alt="robs" height = "180em" />
 </div>
-<br>
+<br><br>
 <div> 
 
   <a href="https://www.instagram.com/robs.diass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
