@@ -7,7 +7,7 @@
 
 
 
-Olá, eu sou Robson Dias !<br><br>💻 Desenvolvedor Fullstack | 📊 Estudante de Engenharia de Software,<br><br>📈 Fascinado pela criação de projetos web.<br><br>👾 Atualmente, estou mergulhando no mundo React com Nest.js, buscando aprimorar minhas habilidades e expandir meu conhecimento nessa área fascinante.<br><br>💡 Com experiência em desenvolvimento web, estou sempre em busca de novos desafios e aprendizados.<br><br> 🎮 Apaixonado por Games<br><br>Vamos conectar nossas habilidades e codar! ✨
+Olá, eu sou Robson Dias !<br><br>💻 Desenvolvedor Fullstack | 📊 Estudante de Engenharia de Software,<br><br>📈 Fascinado pela criação de projetos web.<br><br>👾 Atualmente, estou mergulhando no mundo React com Next.js, buscando aprimorar minhas habilidades e expandir meu conhecimento nessa área fascinante.<br><br>💡 Com experiência em desenvolvimento web, estou sempre em busca de novos desafios e aprendizados.<br><br> 🎮 Apaixonado por Games<br><br>Vamos conectar nossas habilidades e codar! ✨
 
 ## 🌐 Socials:<br><br>
   <a href="https://www.instagram.com/robs.diass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
